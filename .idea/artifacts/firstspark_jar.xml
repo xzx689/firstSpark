@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="firstspark:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/firstspark_jar</output-path>
+    <root id="archive" name="firstspark.jar">
+      <element id="module-output" name="firstspark" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.4.jar" path-in-jar="/" />
+      <element id="file-copy" path="C:/xu/Project/spark-1.1.1-bin-hadoop2.4/lib/spark-assembly-1.1.1-hadoop2.4.0.jar" />
+    </root>
+  </artifact>
+</component>

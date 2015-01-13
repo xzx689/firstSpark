@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact name="spark-assembly-1_1_1-hadoop2_4_0_jar_">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_assembly_1_1_1_hadoop2_4_0_jar_</output-path>
+    <root id="root">
+      <element id="file-copy" path="C:/xu/Project/spark-1.1.1-bin-hadoop2.4/lib/spark-assembly-1.1.1-hadoop2.4.0.jar" />
+    </root>
+  </artifact>
+</component>
